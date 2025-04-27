@@ -61,7 +61,9 @@ php artisan migrate
 ```bash
 php artisan db:seed
 ```
+
 ---
+
 ## Running the Application
 
 Start the Laravel development server:
@@ -70,9 +72,10 @@ Start the Laravel development server:
 php artisan serve
 ```
 
-The API will be available at:
-http://127.0.0.1:8000 
+The API will be available at: http://127.0.0.1:8000 
+
 ---
+
 ## Running Tests
 
 This project uses [PEST Testing Framework](https://pestphp.com) for testing.
@@ -89,6 +92,8 @@ This will automatically:
 - Migrate tables
 - Refresh the database before each test
 - Run tests
+
+---
 
 ## API Documentation
 

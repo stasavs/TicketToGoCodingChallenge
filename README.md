@@ -1,6 +1,6 @@
 # TicketGo Coding Challenge - Setup Guide
 
-Welcome! 🚀 This project is a Laravel-based API for managing blog posts, authors, and comments.
+Welcome! This project is a Laravel-based API for managing blog posts, authors, and comments.
 
 This guide will walk you through setting up the project, installing dependencies, seeding the database with test data, and running the application.
 

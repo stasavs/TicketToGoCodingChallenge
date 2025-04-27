@@ -72,4 +72,21 @@ php artisan serve
 
 The API will be available at:
 http://127.0.0.1:8000 
+---
+## Running Tests
+
+This project uses [PEST Testing Framework](https://pestphp.com) for testing.
+
+To execute the full test suite, simply run:
+
+```bash
+php artisan test
+```
+
+This will automatically:
+
+- Use an in-memory SQLite database (`DB_CONNECTION=sqlite`, `DB_DATABASE=:memory:`)
+- Migrate tables
+- Refresh the database before each test
+- Run tests
 

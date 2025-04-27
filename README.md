@@ -98,3 +98,9 @@ Swagger (OpenAPI) documentation for this project is available at:
 
 You can open this link in your browser to explore and test all available API endpoints interactively.
 
+### API Endpoints Overview
+
+
+| Method | URL | Description |
+|:-------|:----|:------------|
+| GET    | `/api/posts` | Retrieve list of posts, with optional filtering by `author_id` and `title`. |

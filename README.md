@@ -90,3 +90,11 @@ This will automatically:
 - Refresh the database before each test
 - Run tests
 
+## API Documentation
+
+Swagger (OpenAPI) documentation for this project is available at:
+
+[http://127.0.0.1:8000/api/documentation](http://127.0.0.1:8000/api/documentation)
+
+You can open this link in your browser to explore and test all available API endpoints interactively.
+
